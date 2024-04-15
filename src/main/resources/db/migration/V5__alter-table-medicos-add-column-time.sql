@@ -1,0 +1,1 @@
+alter table medicos add time varchar(20) not null;
